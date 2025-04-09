@@ -6,6 +6,7 @@ import { router } from "expo-router";
 import ModalScreen from "@/src/components/ModalScreen";
 import Registro from "@/src/components/Registro";
 import { useState } from "react";
+import React from "react";
 
 const PlaceholderImage = require("@/assets/images/matrix.jpg");
 
